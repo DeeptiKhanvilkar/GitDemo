@@ -1,0 +1,282 @@
+2023-05-07 00:26:32,954 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:26:33,074 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:26:38,968 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:26:38,968 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:26:39,070 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:26:39,070 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:45:28,633 :INFO :test_e2e :Clicked on shop link
+2023-05-07 00:45:28,734 :ERROR :test_e2e :no a product which you are searching
+2023-05-07 00:45:28,853 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-07 00:45:49,786 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:45:49,933 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:45:50,043 :INFO :test_formsubmision :Entered password
+2023-05-07 00:45:55,952 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:45:55,952 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:45:56,059 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:45:56,059 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:45:56,136 :INFO :test_formsubmision :Entered password
+2023-05-07 00:45:56,136 :INFO :test_formsubmision :Entered password
+2023-05-07 00:50:27,329 :INFO :test_e2e :Clicked on shop link
+2023-05-07 00:50:27,462 :DEBUG :test_e2e :no a product which you are searching
+2023-05-07 00:50:27,656 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-07 00:50:50,038 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:50:50,283 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:50:50,428 :INFO :test_formsubmision :Entered password
+2023-05-07 00:50:56,687 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:50:56,687 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:50:56,824 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:50:56,824 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:50:56,932 :INFO :test_formsubmision :Entered password
+2023-05-07 00:50:56,932 :INFO :test_formsubmision :Entered password
+2023-05-07 00:53:56,705 :INFO :test_e2e :Clicked on shop link
+2023-05-07 00:53:56,774 :DEBUG :test_e2e :no a product which you are searching
+2023-05-07 00:53:56,895 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-07 00:54:17,972 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:54:18,113 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:54:18,194 :INFO :test_formsubmision :Entered password
+2023-05-07 00:54:24,277 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:54:24,277 :INFO :test_formsubmision :Entered Name
+2023-05-07 00:54:24,387 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:54:24,387 :INFO :test_formsubmision :Entered Email
+2023-05-07 00:54:24,470 :INFO :test_formsubmision :Entered password
+2023-05-07 00:54:24,470 :INFO :test_formsubmision :Entered password
+2023-05-09 12:46:30,212 :INFO :test_e2e :Clicked on shop link
+2023-05-09 12:46:30,280 :DEBUG :test_e2e :no a product which you are searching
+2023-05-09 12:46:30,378 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-09 12:46:51,300 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:46:51,434 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:46:51,517 :INFO :test_formsubmision :Entered password
+2023-05-09 12:46:57,405 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:46:57,405 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:46:57,518 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:46:57,518 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:46:57,599 :INFO :test_formsubmision :Entered password
+2023-05-09 12:46:57,599 :INFO :test_formsubmision :Entered password
+2023-05-09 12:48:51,118 :INFO :test_e2e :Clicked on shop link
+2023-05-09 12:48:51,181 :DEBUG :test_e2e :no a product which you are searching
+2023-05-09 12:48:51,399 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-09 12:49:12,608 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:49:12,714 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:49:12,795 :INFO :test_formsubmision :Entered password
+2023-05-09 12:49:18,703 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:49:18,703 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:49:18,815 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:49:18,815 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:49:18,908 :INFO :test_formsubmision :Entered password
+2023-05-09 12:49:18,908 :INFO :test_formsubmision :Entered password
+2023-05-09 12:58:22,230 :INFO :test_e2e :Clicked on shop link
+2023-05-09 12:58:22,281 :DEBUG :test_e2e :no a product which you are searching
+2023-05-09 12:58:22,381 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-09 12:58:43,139 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:58:43,229 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:58:43,286 :INFO :test_formsubmision :Entered password
+2023-05-09 12:58:48,844 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:58:48,844 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:58:48,916 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:58:48,916 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:58:48,969 :INFO :test_formsubmision :Entered password
+2023-05-09 12:58:48,969 :INFO :test_formsubmision :Entered password
+2023-05-09 12:59:36,531 :INFO :test_e2e :Clicked on shop link
+2023-05-09 12:59:36,626 :DEBUG :test_e2e :no a product which you are searching
+2023-05-09 12:59:36,754 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-09 12:59:57,514 :INFO :test_formsubmision :Entered Name
+2023-05-09 12:59:57,611 :INFO :test_formsubmision :Entered Email
+2023-05-09 12:59:57,677 :INFO :test_formsubmision :Entered password
+2023-05-09 13:00:03,349 :INFO :test_formsubmision :Entered Name
+2023-05-09 13:00:03,349 :INFO :test_formsubmision :Entered Name
+2023-05-09 13:00:03,434 :INFO :test_formsubmision :Entered Email
+2023-05-09 13:00:03,434 :INFO :test_formsubmision :Entered Email
+2023-05-09 13:00:03,507 :INFO :test_formsubmision :Entered password
+2023-05-09 13:00:03,507 :INFO :test_formsubmision :Entered password
+2023-05-09 16:40:35,478 :INFO :test_formsubmision :Entered Name
+2023-05-09 16:40:35,591 :INFO :test_formsubmision :Entered Email
+2023-05-09 16:40:35,666 :INFO :test_formsubmision :Entered password
+2023-05-09 16:41:04,789 :INFO :test_formsubmision :Entered Name
+2023-05-09 16:41:04,789 :INFO :test_formsubmision :Entered Name
+2023-05-09 16:41:04,922 :INFO :test_formsubmision :Entered Email
+2023-05-09 16:41:04,922 :INFO :test_formsubmision :Entered Email
+2023-05-09 16:41:05,023 :INFO :test_formsubmision :Entered password
+2023-05-09 16:41:05,023 :INFO :test_formsubmision :Entered password
+2023-05-15 11:24:57,438 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:24:57,613 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:24:57,761 :INFO :test_formsubmision :Entered password
+2023-05-15 11:25:04,021 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:25:04,021 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:25:04,218 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:25:04,218 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:25:04,375 :INFO :test_formsubmision :Entered password
+2023-05-15 11:25:04,375 :INFO :test_formsubmision :Entered password
+2023-05-15 11:27:19,669 :INFO :test_e2e :Clicked on shop link
+2023-05-15 11:27:19,762 :DEBUG :test_e2e :no a product which you are searching
+2023-05-15 11:27:19,911 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-15 11:27:41,365 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:27:41,485 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:27:41,565 :INFO :test_formsubmision :Entered password
+2023-05-15 11:27:47,506 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:27:47,506 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:27:47,604 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:27:47,604 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:27:47,678 :INFO :test_formsubmision :Entered password
+2023-05-15 11:27:47,678 :INFO :test_formsubmision :Entered password
+2023-05-15 11:41:36,685 :INFO :test_e2e :Clicked on shop link
+2023-05-15 11:41:36,771 :DEBUG :test_e2e :no a product which you are searching
+2023-05-15 11:41:36,971 :INFO :test_e2e :Clicked on given device's add cart
+2023-05-15 11:41:58,794 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:41:58,932 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:41:59,027 :INFO :test_formsubmision :Entered password
+2023-05-15 11:42:05,259 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:42:05,259 :INFO :test_formsubmision :Entered Name
+2023-05-15 11:42:05,376 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:42:05,376 :INFO :test_formsubmision :Entered Email
+2023-05-15 11:42:05,471 :INFO :test_formsubmision :Entered password
+2023-05-15 11:42:05,471 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:18,877 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:18,977 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:19,072 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:24,882 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:24,882 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:24,998 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:24,998 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:25,068 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:25,068 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:30,801 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:30,801 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:30,801 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:30,921 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:30,921 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:30,921 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:30,992 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:30,992 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:30,992 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:36,574 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:36,574 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:36,574 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:36,574 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:36,683 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:36,683 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:36,683 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:36,683 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:36,758 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:36,758 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:36,758 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:36,758 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:42,333 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:42,333 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:42,333 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:42,333 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:42,333 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:42,475 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:42,475 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:42,475 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:42,475 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:42,475 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:42,574 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:42,574 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:42,574 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:42,574 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:42,574 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:48,273 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:48,273 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:48,273 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:48,273 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:48,273 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:48,273 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:06:48,423 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:48,423 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:48,423 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:48,423 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:48,423 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:48,423 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:06:48,524 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:48,524 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:48,524 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:48,524 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:48,524 :INFO :test_formsubmision :Entered password
+2023-05-15 23:06:48,524 :INFO :test_formsubmision :Entered password
+2023-05-15 23:10:20,524 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:10:20,669 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:10:20,789 :INFO :test_formsubmision :Entered password
+2023-05-15 23:10:36,786 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:10:36,786 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:10:36,917 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:10:36,917 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:10:36,987 :INFO :test_formsubmision :Entered password
+2023-05-15 23:10:36,987 :INFO :test_formsubmision :Entered password
+2023-05-15 23:29:20,133 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:29:20,330 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:29:20,425 :INFO :test_formsubmision :Entered password
+2023-05-15 23:37:40,022 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:37:40,133 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:37:40,214 :INFO :test_formsubmision :Entered password
+2023-05-15 23:37:56,023 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:37:56,023 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:37:56,179 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:37:56,179 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:37:56,282 :INFO :test_formsubmision :Entered password
+2023-05-15 23:37:56,282 :INFO :test_formsubmision :Entered password
+2023-05-15 23:52:46,168 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:52:46,292 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:52:46,381 :INFO :test_formsubmision :Entered password
+2023-05-15 23:52:57,131 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:52:57,131 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:52:57,245 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:52:57,245 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:52:57,325 :INFO :test_formsubmision :Entered password
+2023-05-15 23:52:57,325 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:08,095 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:08,095 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:08,095 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:08,180 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:08,180 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:08,180 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:08,254 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:08,254 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:08,254 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:19,159 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:19,159 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:19,159 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:19,159 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:19,288 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:19,288 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:19,288 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:19,288 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:19,364 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:19,364 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:19,364 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:19,364 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:30,240 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:30,240 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:30,240 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:30,240 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:30,240 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:30,327 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:30,327 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:30,327 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:30,327 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:30,327 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:30,393 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:30,393 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:30,393 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:30,393 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:30,393 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:41,237 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:41,237 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:41,237 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:41,237 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:41,237 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:41,237 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:53:41,354 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:41,354 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:41,354 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:41,354 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:41,354 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:41,354 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:53:41,421 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:41,421 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:41,421 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:41,421 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:41,421 :INFO :test_formsubmision :Entered password
+2023-05-15 23:53:41,421 :INFO :test_formsubmision :Entered password
+2023-05-15 23:54:26,202 :INFO :test_formsubmision :Entered Name
+2023-05-15 23:54:26,341 :INFO :test_formsubmision :Entered Email
+2023-05-15 23:54:26,429 :INFO :test_formsubmision :Entered password
